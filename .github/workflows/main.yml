@@ -1,6 +1,7 @@
 name: Run Python Script
 
 on:
+  workflow_dispatch: # これで手動実行ができるようになる
   schedule:
     - cron: '0 10-18 * * *' # 毎日午前10時～午後6時の0分に実行
 
