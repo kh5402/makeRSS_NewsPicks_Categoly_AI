@@ -6,7 +6,7 @@ from dateutil.parser import parse
 from xml.dom.minidom import parseString
 
 # 環境変数からファイルパスを取得
-exportfile = os.environ['EXPORT_FILE_PATH']
+exportfile = "NewsPicks_Categoly_AI_feed.xml"
 
 # 拡張子を追加
 exportfile += ".xml"
