@@ -26,8 +26,11 @@ jobs:
           chmod +x NewsPicks_Categoly_AI.py
           python NewsPicks_Categoly_AI.py
 
-      - name: Upload XML file
-        uses: actions/upload-artifact@v2
-        with:
-          name: NewsPicks_Categoly_AI_feed
-          path: NewsPicks_Categoly_AI_feed.xml
+      - name: Commit and push
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add docs/feed.xml
+          git commit -m "Update RSS feed" -a
+          git push
+
