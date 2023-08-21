@@ -5,7 +5,7 @@ from feedgenerator import Rss201rev2Feed
 from dateutil.parser import parse
 from xml.dom.minidom import parseString
 
-# 環境変数からファイルパスを取得
+# ファイル名
 exportfile = "NewsPicks_Categoly_AI_feed.xml"
 
 def create_rss_feed():
@@ -21,6 +21,25 @@ def create_rss_feed():
         title="NewsPicks Categoly：AI",
         link=url,
         description="最新のAI関連のニュースをお届けします",
+    )
+
+    # 最初の記事の情報を取得
+    first_article_div = soup.find('div', class_="css-7q0s18")
+    a_tag = first_article_div.find('a', href=True)
+    title_tag = first_article_div.find(class_="typography css-1619w2p")
+    subtitle_tag = first_article_div.find(class_="typography css-xgbdwh")
+    time_tag = first_article_div.find('time', datetime=True)
+
+    title = title_tag.text
+    subtitle = subtitle_tag.text
+    href = a_tag['href']
+    date = parse(time_tag['datetime'])
+
+    feed.add_item(
+        title=title + " - " + subtitle,
+        link=href,
+        pubdate=date,
+        description="",
     )
 
     # 各記事の情報を取得してRSSフィードに追加
@@ -42,8 +61,8 @@ def create_rss_feed():
                 feed.add_item(
                     title=full_title,
                     link=href,
-                    pubdate=date, # 日付をRSSリーダーで取得したときの日付として使用
-                    description="", # descriptionを空にする
+                    pubdate=date,
+                    description="",
                 )
 
     # RSSフィードのXMLを出力
