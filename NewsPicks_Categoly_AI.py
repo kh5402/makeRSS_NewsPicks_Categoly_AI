@@ -6,7 +6,7 @@ from dateutil.parser import parse
 from xml.dom.minidom import parseString
 
 # ファイル名
-exportfile = "NewsPicks_Categoly_AI_feed.xml"
+exportfile = "feed.xml"
 
 def create_rss_feed():
     url = "https://newspicks.com/theme-news/9980/"
