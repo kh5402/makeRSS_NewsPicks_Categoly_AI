@@ -32,6 +32,6 @@ jobs:
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          git add NewsPicks_Categoly_AI_feed.xml
+          git add feed.xml
           git commit -m "Update RSS feed" -a
           git push
