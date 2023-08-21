@@ -54,7 +54,7 @@ def create_rss_feed():
     dom = parseString(xml_str)
     pretty_xml_str = dom.toprettyxml(indent="    ", encoding='utf-8')
 
-    with open('feed.xml', 'wb') as f:
+    with open(exportfile, 'wb') as f:
         f.write(pretty_xml_str)
 
 create_rss_feed()
