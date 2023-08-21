@@ -8,9 +8,6 @@ from xml.dom.minidom import parseString
 # 環境変数からファイルパスを取得
 exportfile = "NewsPicks_Categoly_AI_feed.xml"
 
-# 拡張子を追加
-exportfile += ".xml"
-
 def create_rss_feed():
     url = "https://newspicks.com/theme-news/9980/"
     response = requests.get(url)
