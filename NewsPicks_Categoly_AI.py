@@ -45,28 +45,28 @@ def create_rss_feed():
         description="",
     )
 
-   # 2個目以降の記事の情報を取得してRSSフィードに追加
-    for div_tag in soup.find_all('a', class_="css-dv7pnt"):
-        a_tag = div_tag.find('a', href=True)
+    # 2個目以降の記事の情報を取得してRSSフィードに追加
+    for a_tag in soup.find_all('a', class_="css-dv7pnt", href=True):
+        if a_tag is None:
+            continue
+        title_tag = a_tag.find(class_="typography css-1ta5siq")
+        subtitle_tag = a_tag.find(class_="typography css-rvnxno")
+        time_tag = a_tag.find('time', datetime=True)
         href = a_tag['href']
-        if "newspicks.com/news" in href:
-            title_tag = a_tag.find(class_="typography css-1ta5siq")
-            subtitle_tag = a_tag.find(class_="typography css-rvnxno")
-            time_tag = a_tag.find('time', datetime=True)
 
-            if title_tag and subtitle_tag and time_tag:
-                title = title_tag.text
-                subtitle = subtitle_tag.text
-                date = parse(time_tag['datetime'])
+        if title_tag and subtitle_tag and time_tag:
+            title = title_tag.text
+            subtitle = subtitle_tag.text
+            date = parse(time_tag['datetime'])
 
-                full_title = title + " - " + subtitle
+            full_title = title + " - " + subtitle
 
-                feed.add_item(
-                    title=full_title,
-                    link=href,
-                    pubdate=date,
-                    description="",
-                )
+            feed.add_item(
+                title=full_title,
+                link=href,
+                pubdate=date,
+                description="",
+            )
 
     # RSSフィードのXMLを出力
     xml_str = feed.writeString('utf-8')
