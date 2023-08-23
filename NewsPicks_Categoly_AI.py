@@ -30,7 +30,7 @@ def create_rss_feed():
     first_article_div = soup.find('div', class_="css-7q0s18")
     a_tag = first_article_div.find('a', href=True)
     title_tag = first_article_div.find(class_="typography css-19plv60")
-    subtitle_tag = first_article_div.find(class_="typography css-xgbdwh")
+    subtitle_tag = first_article_div.find(class_="typography css-rvnxno")
     time_tag = first_article_div.find('time', datetime=True)
 
     title = title_tag.text
