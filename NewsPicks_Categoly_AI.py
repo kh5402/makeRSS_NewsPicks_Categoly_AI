@@ -29,7 +29,7 @@ def create_rss_feed():
     # 最初の記事の情報を取得
     first_article_div = soup.find('div', class_="css-7q0s18")
     a_tag = first_article_div.find('a', href=True)
-    title_tag = first_article_div.find(class_="typography css-1619w2p")
+    title_tag = first_article_div.find(class_="typography css-19plv60")
     subtitle_tag = first_article_div.find(class_="typography css-xgbdwh")
     time_tag = first_article_div.find('time', datetime=True)
 
