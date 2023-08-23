@@ -49,7 +49,7 @@ def create_rss_feed():
     for a_tag in soup.find_all('a', class_="css-dv7pnt", href=True):
         if a_tag is None:
             continue
-        title_tag = a_tag.find(class_="typography css-1ta5siq")
+        title_tag = a_tag.find(class_="typography css-1ta5siqa")
         subtitle_tag = a_tag.find(class_="typography css-rvnxno")
         time_tag = a_tag.find('time', datetime=True)
         href = a_tag['href']
