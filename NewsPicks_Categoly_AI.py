@@ -45,13 +45,13 @@ def create_rss_feed():
         description="",
     )
 
-    # 各記事の情報を取得してRSSフィードに追加
-    for div_tag in soup.find_all('div', class_="css-19so664"):
+   # 2個目以降の記事の情報を取得してRSSフィードに追加
+    for div_tag in soup.find_all('a', class_="css-dv7pnt"):
         a_tag = div_tag.find('a', href=True)
         href = a_tag['href']
         if "newspicks.com/news" in href:
-            title_tag = a_tag.find(class_="typography css-iom819")
-            subtitle_tag = a_tag.find(class_="typography css-xgbdwh")
+            title_tag = a_tag.find(class_="typography css-1ta5siq")
+            subtitle_tag = a_tag.find(class_="typography css-rvnxno")
             time_tag = a_tag.find('time', datetime=True)
 
             if title_tag and subtitle_tag and time_tag:
