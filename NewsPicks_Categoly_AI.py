@@ -76,4 +76,5 @@ def create_rss_feed():
     with open(exportfile, 'wb') as f:
         f.write(pretty_xml_str)
 
+print(pretty_xml_str)
 create_rss_feed()
