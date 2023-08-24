@@ -33,5 +33,5 @@ jobs:
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
           git add feed.xml
-          git commit -m "Update RSS feed" -a
-          git push
+          git diff --staged --quiet || git commit -m "Update RSS feed"
+          git push origin main || echo "変更がないからプッシュせんでええで！😊"
