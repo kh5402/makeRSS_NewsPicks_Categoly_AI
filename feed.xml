@@ -4,7 +4,13 @@
         <title>NewsPicks Categoly：AI</title>
         <link>https://newspicks.com/theme-news/9980/</link>
         <description>最新のAI関連のニュースをお届けします</description>
-        <lastBuildDate>Thu, 24 Aug 2023 12:42:47 +0000</lastBuildDate>
+        <lastBuildDate>Fri, 25 Aug 2023 00:15:59 +0000</lastBuildDate>
+        <item>
+            <title>Meta、コーディング用生成AIモデル「Code Llama」リリース - ITmedia NEWS</title>
+            <link>https://newspicks.com/news/8817092?ref=picked-news_9980</link>
+            <description/>
+            <pubDate>Fri, 25 Aug 2023 00:15:59 +0000</pubDate>
+        </item>
         <item>
             <title>世界のエンタメ企業、96％が生成AI投資を強化　脚本家の脅威に - Forbes JAPAN</title>
             <link>https://newspicks.com/news/8813909?ref=picked-news_9980</link>
@@ -178,12 +184,6 @@
             <link>https://newspicks.com/news/8758230?ref=picked-news_9980</link>
             <description/>
             <pubDate>Sun, 20 Aug 2023 00:43:22 +0000</pubDate>
-        </item>
-        <item>
-            <title>生成AIでGPU不足深刻化、NVIDIA新投入のGH200とは？ メタやテスラが抱える驚きのGPU数 - ビジネス＋IT</title>
-            <link>https://newspicks.com/news/8792510?ref=picked-news_9980</link>
-            <description/>
-            <pubDate>Sat, 19 Aug 2023 01:43:08 +0000</pubDate>
         </item>
     </channel>
 </rss>
