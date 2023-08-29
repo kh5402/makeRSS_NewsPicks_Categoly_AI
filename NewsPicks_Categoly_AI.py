@@ -44,6 +44,7 @@ def create_rss_feed():
 
     # 最初の記事の情報を取得
     first_article_div = soup.find('div', class_="css-7q0s18")
+    print(first_article_div)
 
     if first_article_div is None:
         print("first_article_div が None やで！クラス名やタグが正しいか確認してみてな！")
@@ -51,9 +52,9 @@ def create_rss_feed():
         print(soup.prettify()[:500]) # 最初の500文字を出力
     else:
         a_tag = first_article_div.find('a', href=True)
-    title_tag = first_article_div.find(class_="typography css-19plv60")
-    subtitle_tag = first_article_div.find(class_="typography css-rvnxno")
-    time_tag = first_article_div.find('time', datetime=True)
+        title_tag = first_article_div.find(class_="typography css-19plv60")
+        subtitle_tag = first_article_div.find(class_="typography css-rvnxno")
+        time_tag = first_article_div.find('time', datetime=True)
 
     title = title_tag.text
     subtitle = subtitle_tag.text
