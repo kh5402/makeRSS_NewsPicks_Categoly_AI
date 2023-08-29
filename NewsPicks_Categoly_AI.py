@@ -21,7 +21,7 @@ def create_rss_feed():
     return random.choice(user_agents)
 
     headers = {
-        'User-Agent': get_random_user_agent(),
+        'User-Agent': random.choice(user_agents),
         'Accept-Language': 'ja-JP,ja;q=0.9,en-US;q=0.8,en;q=0.7',
         'Accept-Encoding': 'gzip, deflate, br'
     }
