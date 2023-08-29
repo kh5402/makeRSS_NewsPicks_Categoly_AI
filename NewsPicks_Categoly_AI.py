@@ -9,9 +9,7 @@ from xml.dom.minidom import parseString
 # ファイル名
 exportfile = "feed.xml"
 
-def create_rss_feed():
-    url = "https://newspicks.com/theme-news/9980/"
-
+def get_random_user_agent():
     user_agents = [
         'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36',
         'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:91.0) Gecko/20100101 Firefox/91.0',
@@ -19,9 +17,12 @@ def create_rss_feed():
         'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.902.84 Safari/537.36 Edg/92.0.902.84'
     ]
     return random.choice(user_agents)
+    
+def create_rss_feed():
+    url = "https://newspicks.com/theme-news/9980/"
 
     headers = {
-        'User-Agent': random.choice(user_agents),
+        'User-Agent':get_random_user_agent(),
         'Accept-Language': 'ja-JP,ja;q=0.9,en-US;q=0.8,en;q=0.7',
         'Accept-Encoding': 'gzip, deflate, br'
     }
