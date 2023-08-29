@@ -32,7 +32,7 @@ def create_rss_feed():
 
     # HTMLの解析
     soup = BeautifulSoup(content, 'html.parser')
-    #print('# HTMLの解析')
+    print('# HTMLの解析')
     print(soup)
 
     # RSSフィードの生成
