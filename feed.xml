@@ -4,12 +4,18 @@
         <title>NewsPicks Categoly：AI</title>
         <link>https://newspicks.com/theme-news/9980/</link>
         <description>最新のAI関連のニュースをお届けします</description>
-        <lastBuildDate>Sun, 03 Sep 2023 01:05:52 +0000</lastBuildDate>
+        <lastBuildDate>Sun, 03 Sep 2023 02:40:05 +0000</lastBuildDate>
         <item>
             <title>スティーヴン・キング｢AIが私の文章で学習することを禁止しようとは思わない｣ - Business Insider Japan</title>
             <link>https://newspicks.com/news/8858530?ref=picked-news_9980</link>
             <description/>
-            <pubDate>Sun, 03 Sep 2023 01:05:52 +0000</pubDate>
+            <pubDate>Sun, 03 Sep 2023 02:40:05 +0000</pubDate>
+        </item>
+        <item>
+            <title>AIチャットボットを狙う「プロンプトインジェクション攻撃」　英当局が警告 - Forbes JAPAN</title>
+            <link>https://newspicks.com/news/8858502?ref=picked-news_9980</link>
+            <description/>
+            <pubDate>Sun, 03 Sep 2023 02:40:02 +0000</pubDate>
         </item>
         <item>
             <title>【休日に読む】人類には知性を拡張する「ツール」が必要だ - NewsPicks編集部</title>
@@ -178,12 +184,6 @@
             <link>https://newspicks.com/news/8831132?ref=picked-news_9980</link>
             <description/>
             <pubDate>Mon, 28 Aug 2023 22:49:50 +0000</pubDate>
-        </item>
-        <item>
-            <title>OpenAI、企業向け「ChatGPT Enterprise」提供開始　高速GPT-4でプライバシーも安全 - ITmedia NEWS</title>
-            <link>https://newspicks.com/news/8831946?ref=picked-news_9980</link>
-            <description/>
-            <pubDate>Mon, 28 Aug 2023 21:38:42 +0000</pubDate>
         </item>
     </channel>
 </rss>
