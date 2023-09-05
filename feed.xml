@@ -4,18 +4,24 @@
         <title>NewsPicks Categoly：AI</title>
         <link>https://newspicks.com/theme-news/9980/</link>
         <description>最新のAI関連のニュースをお届けします</description>
-        <lastBuildDate>Mon, 04 Sep 2023 23:40:09 +0000</lastBuildDate>
+        <lastBuildDate>Tue, 05 Sep 2023 01:40:15 +0000</lastBuildDate>
         <item>
             <title>AIがチームを組み、ゲーム攻略するシステム　中国チームが開発　マインクラフトなどで実験 - ITmedia NEWS</title>
             <link>https://newspicks.com/news/8865385?ref=picked-news_9980</link>
             <description/>
-            <pubDate>Mon, 04 Sep 2023 23:40:09 +0000</pubDate>
+            <pubDate>Tue, 05 Sep 2023 01:40:15 +0000</pubDate>
         </item>
         <item>
             <title>AI シフトのパイオニアを目指す Google と、薄くなるアプリケーション - ソフトウェアと見せかけの魔法</title>
             <link>https://newspicks.com/news/8865172?ref=picked-news_9980</link>
             <description/>
-            <pubDate>Mon, 04 Sep 2023 23:39:59 +0000</pubDate>
+            <pubDate>Tue, 05 Sep 2023 01:40:07 +0000</pubDate>
+        </item>
+        <item>
+            <title>生成AIサービスのUXデザインにおけるベストプラクティス - note（ノート）</title>
+            <link>https://newspicks.com/news/8865936?ref=picked-news_9980</link>
+            <description/>
+            <pubDate>Tue, 05 Sep 2023 01:39:57 +0000</pubDate>
         </item>
         <item>
             <title>1本50円で外注できるAIソフトウェア開発環境「ChatDEV」、人の声を理解する言語モデル「LLaSM」など重要論文5本を解説 - テクノエッジ</title>
@@ -178,12 +184,6 @@
             <link>https://newspicks.com/news/8835863?ref=picked-news_9980</link>
             <description/>
             <pubDate>Wed, 30 Aug 2023 02:31:33 +0000</pubDate>
-        </item>
-        <item>
-            <title>生成AIを使ったグーグル検索の新機能　国内できょうから - TBS NEWS DIG</title>
-            <link>https://newspicks.com/news/8837843?ref=picked-news_9980</link>
-            <description/>
-            <pubDate>Wed, 30 Aug 2023 02:31:12 +0000</pubDate>
         </item>
     </channel>
 </rss>
