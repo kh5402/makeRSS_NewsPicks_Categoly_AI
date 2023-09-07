@@ -4,18 +4,24 @@
         <title>NewsPicks Categoly：AI</title>
         <link>https://newspicks.com/theme-news/9980/</link>
         <description>最新のAI関連のニュースをお届けします</description>
-        <lastBuildDate>Wed, 06 Sep 2023 22:21:09 +0000</lastBuildDate>
+        <lastBuildDate>Thu, 07 Sep 2023 00:49:39 +0000</lastBuildDate>
+        <item>
+            <title>OpenAI、初の開発者会議を11月6日にサンフランシスコで開催へ - ITmedia NEWS</title>
+            <link>https://newspicks.com/news/8875863?ref=picked-news_9980</link>
+            <description/>
+            <pubDate>Thu, 07 Sep 2023 00:49:39 +0000</pubDate>
+        </item>
+        <item>
+            <title>生成AIで定性調査を10Xする試み - AIとWeb3時代のプロダクトマネジメント</title>
+            <link>https://newspicks.com/news/8875874?ref=picked-news_9980</link>
+            <description/>
+            <pubDate>Thu, 07 Sep 2023 00:49:35 +0000</pubDate>
+        </item>
         <item>
             <title>織田信長など生成AIで活用できるプラットフォーム「altBRAIN」正式リリース - TECH+</title>
             <link>https://newspicks.com/news/8871936?ref=picked-news_9980</link>
             <description/>
             <pubDate>Wed, 06 Sep 2023 22:21:09 +0000</pubDate>
-        </item>
-        <item>
-            <title>OpenAI、初の開発者会議を11月6日にサンフランシスコで開催へ - ITmedia NEWS</title>
-            <link>https://newspicks.com/news/8875863?ref=picked-news_9980</link>
-            <description/>
-            <pubDate>Wed, 06 Sep 2023 22:10:07 +0000</pubDate>
         </item>
         <item>
             <title>まもなく開催のアマゾンイベント、発表内容を予想--「Alexa」への生成AI搭載など - CNET Japan</title>
@@ -178,12 +184,6 @@
             <link>https://newspicks.com/news/8846419?ref=picked-news_9980</link>
             <description/>
             <pubDate>Thu, 31 Aug 2023 13:49:07 +0000</pubDate>
-        </item>
-        <item>
-            <title>中国当局、百度のＡＩチャットボットを認可 - Reuters</title>
-            <link>https://newspicks.com/news/8842700?ref=picked-news_9980</link>
-            <description/>
-            <pubDate>Thu, 31 Aug 2023 08:51:10 +0000</pubDate>
         </item>
     </channel>
 </rss>
