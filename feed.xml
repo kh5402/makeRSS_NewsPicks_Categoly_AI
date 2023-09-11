@@ -4,7 +4,13 @@
         <title>NewsPicks Categoly：AI</title>
         <link>https://newspicks.com/theme-news/9980/</link>
         <description>最新のAI関連のニュースをお届けします</description>
-        <lastBuildDate>Sun, 10 Sep 2023 23:55:26 +0000</lastBuildDate>
+        <lastBuildDate>Mon, 11 Sep 2023 05:02:39 +0000</lastBuildDate>
+        <item>
+            <title>米メタ、より強力なＡＩシステム開発中＝ＷＳＪ - Reuters</title>
+            <link>https://newspicks.com/news/8892830?ref=picked-news_9980</link>
+            <description/>
+            <pubDate>Mon, 11 Sep 2023 05:02:39 +0000</pubDate>
+        </item>
         <item>
             <title>生成AIブームで多発の可能性　「PoC貧乏」をどう回避するか - Forbes JAPAN</title>
             <link>https://newspicks.com/news/8892258?ref=picked-news_9980</link>
@@ -178,12 +184,6 @@
             <link>https://newspicks.com/news/8870581?ref=picked-news_9980</link>
             <description/>
             <pubDate>Wed, 06 Sep 2023 03:29:52 +0000</pubDate>
-        </item>
-        <item>
-            <title>グーグルの視覚支援アプリ「Lookout」、AIで画像の説明を自動生成 - CNET Japan</title>
-            <link>https://newspicks.com/news/8871737?ref=picked-news_9980</link>
-            <description/>
-            <pubDate>Wed, 06 Sep 2023 03:29:50 +0000</pubDate>
         </item>
     </channel>
 </rss>
