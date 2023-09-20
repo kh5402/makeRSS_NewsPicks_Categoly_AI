@@ -4,7 +4,31 @@
         <title>NewsPicks Categoly：AI</title>
         <link>https://newspicks.com/theme-news/9980/</link>
         <description>最新のAI関連のニュースをお届けします</description>
-        <lastBuildDate>Tue, 19 Sep 2023 01:34:54 +0000</lastBuildDate>
+        <lastBuildDate>Tue, 19 Sep 2023 23:50:02 +0000</lastBuildDate>
+        <item>
+            <title>米インテル、ＡＩ向け新型半導体を発表　12月発売へ - Reuters</title>
+            <link>https://newspicks.com/news/8931957?ref=picked-news_9980</link>
+            <description/>
+            <pubDate>Tue, 19 Sep 2023 23:50:02 +0000</pubDate>
+        </item>
+        <item>
+            <title>生成AIの「キラキラしない」未来に期待する理由 - MITテクノロジーレビュー</title>
+            <link>https://newspicks.com/news/8932265?ref=picked-news_9980</link>
+            <description/>
+            <pubDate>Tue, 19 Sep 2023 23:50:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>Vercel、自然言語からUIを生成するサービス「v0」を実験的に公開。Tailwind CSSとShadcn UIをベースに - www.publickey1.jp</title>
+            <link>https://newspicks.com/news/8932095?ref=picked-news_9980</link>
+            <description/>
+            <pubDate>Tue, 19 Sep 2023 22:07:08 +0000</pubDate>
+        </item>
+        <item>
+            <title>マイクロソフトのＡＩ研究者、非公開データのキャッシュを誤って流出 - Bloomberg</title>
+            <link>https://newspicks.com/news/8927357?ref=picked-news_9980</link>
+            <description/>
+            <pubDate>Tue, 19 Sep 2023 08:24:47 +0000</pubDate>
+        </item>
         <item>
             <title>日本のAI第一人者が教える「取るべき戦略は3つのステップだけ」 - Forbes JAPAN</title>
             <link>https://newspicks.com/news/8927236?ref=picked-news_9980</link>
@@ -160,30 +184,6 @@
             <link>https://newspicks.com/news/8901625?ref=picked-news_9980</link>
             <description/>
             <pubDate>Tue, 12 Sep 2023 22:12:55 +0000</pubDate>
-        </item>
-        <item>
-            <title>政府のAI戦略会議で示した「新ＡＩ事業者ガイドライン スケルトン（案） 」 - デジタル政策と未来社会</title>
-            <link>https://newspicks.com/news/8900161?ref=picked-news_9980</link>
-            <description/>
-            <pubDate>Tue, 12 Sep 2023 09:11:57 +0000</pubDate>
-        </item>
-        <item>
-            <title>米テスラのスパコン、時価総額6000億ドル押し上げも＝モルガンＳ - Reuters</title>
-            <link>https://newspicks.com/news/8895424?ref=picked-news_9980</link>
-            <description/>
-            <pubDate>Tue, 12 Sep 2023 09:08:44 +0000</pubDate>
-        </item>
-        <item>
-            <title>なぜ日本はGPUのない「富岳」でLLMを研究するのか　外国に後れを取らないための“現実的な理由” - ITmedia NEWS</title>
-            <link>https://newspicks.com/news/8893413?ref=picked-news_9980</link>
-            <description/>
-            <pubDate>Mon, 11 Sep 2023 22:49:44 +0000</pubDate>
-        </item>
-        <item>
-            <title>米メタ、より強力なＡＩシステム開発中＝ＷＳＪ - Reuters</title>
-            <link>https://newspicks.com/news/8892830?ref=picked-news_9980</link>
-            <description/>
-            <pubDate>Mon, 11 Sep 2023 05:02:39 +0000</pubDate>
         </item>
     </channel>
 </rss>
