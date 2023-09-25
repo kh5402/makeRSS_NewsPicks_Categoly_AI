@@ -4,7 +4,13 @@
         <title>NewsPicks Categoly：AI</title>
         <link>https://newspicks.com/theme-news/9980/</link>
         <description>最新のAI関連のニュースをお届けします</description>
-        <lastBuildDate>Mon, 25 Sep 2023 03:27:39 +0000</lastBuildDate>
+        <lastBuildDate>Mon, 25 Sep 2023 07:56:08 +0000</lastBuildDate>
+        <item>
+            <title>米アマゾン、生成ＡＩのアンソロピックに最大5900億円投資へ - Bloomberg</title>
+            <link>https://newspicks.com/news/8956472?ref=picked-news_9980</link>
+            <description/>
+            <pubDate>Mon, 25 Sep 2023 07:56:08 +0000</pubDate>
+        </item>
         <item>
             <title>数行のコード追加でStable Diffusion生成画像を高品質にする「FreeU」、Llama2を10万トークンに低コストで増やす手法「LongLoRA」など重要論文5本を解説 - テクノエッジ</title>
             <link>https://newspicks.com/news/8953956?ref=picked-news_9980</link>
@@ -178,12 +184,6 @@
             <link>https://newspicks.com/news/8932265?ref=picked-news_9980</link>
             <description/>
             <pubDate>Wed, 20 Sep 2023 09:09:24 +0000</pubDate>
-        </item>
-        <item>
-            <title>グーグル、生成ＡＩ「バード」の機能拡充　真偽確認やメール要約 - Reuters</title>
-            <link>https://newspicks.com/news/8932717?ref=picked-news_9980</link>
-            <description/>
-            <pubDate>Wed, 20 Sep 2023 02:13:13 +0000</pubDate>
         </item>
     </channel>
 </rss>
