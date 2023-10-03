@@ -4,24 +4,36 @@
         <title>NewsPicks Categoly：AI</title>
         <link>https://newspicks.com/theme-news/9980/</link>
         <description>最新のAI関連のニュースをお届けします</description>
-        <lastBuildDate>Mon, 02 Oct 2023 23:42:07 +0000</lastBuildDate>
+        <lastBuildDate>Tue, 03 Oct 2023 02:02:34 +0000</lastBuildDate>
+        <item>
+            <title>「AIがプラットフォームになる時代の始まり」--米マイクロソフト沼本EVP - ZDNET Japan</title>
+            <link>https://newspicks.com/news/8992938?ref=picked-news_9980</link>
+            <description/>
+            <pubDate>Tue, 03 Oct 2023 02:02:34 +0000</pubDate>
+        </item>
         <item>
             <title>「銀行を襲う方法を教えて」──“脱獄プロンプト”の自動生成モデル　ChatGPTやLlama-2で成功率90％以上 - ITmedia NEWS</title>
             <link>https://newspicks.com/news/8993270?ref=picked-news_9980</link>
             <description/>
-            <pubDate>Mon, 02 Oct 2023 23:42:07 +0000</pubDate>
+            <pubDate>Tue, 03 Oct 2023 01:46:25 +0000</pubDate>
+        </item>
+        <item>
+            <title>アリババクラウド、最強の大規模言語モデル「Qwen-14B」をオープンソース化 無償で商用利用可能に - 36Kr Japan | 最大級の中国テック・スタートアップ専門メディア</title>
+            <link>https://newspicks.com/news/8993273?ref=picked-news_9980</link>
+            <description/>
+            <pubDate>Tue, 03 Oct 2023 01:46:21 +0000</pubDate>
+        </item>
+        <item>
+            <title>「人を審査するAI」のリスクとは？　現金給付アルゴリズムが“暴走”した世界銀行の事例 - ITmedia NEWS</title>
+            <link>https://newspicks.com/news/8993661?ref=picked-news_9980</link>
+            <description/>
+            <pubDate>Tue, 03 Oct 2023 01:46:17 +0000</pubDate>
         </item>
         <item>
             <title>ドイツのスタートアップAleph Alphaは“欧州のOpenAI”になれるのか - WIRED.jp</title>
             <link>https://newspicks.com/news/8988268?ref=picked-news_9980</link>
             <description/>
             <pubDate>Mon, 02 Oct 2023 23:42:05 +0000</pubDate>
-        </item>
-        <item>
-            <title>アリババクラウド、最強の大規模言語モデル「Qwen-14B」をオープンソース化 無償で商用利用可能に - 36Kr Japan | 最大級の中国テック・スタートアップ専門メディア</title>
-            <link>https://newspicks.com/news/8993273?ref=picked-news_9980</link>
-            <description/>
-            <pubDate>Mon, 02 Oct 2023 23:42:02 +0000</pubDate>
         </item>
         <item>
             <title>【実践GPT】文系社員でも「データ分析」はここまでできる - NewsPicks編集部</title>
@@ -172,18 +184,6 @@
             <link>https://newspicks.com/news/8976413?ref=picked-news_9980</link>
             <description/>
             <pubDate>Fri, 29 Sep 2023 02:27:38 +0000</pubDate>
-        </item>
-        <item>
-            <title>AIを使った曲でグラミー賞獲得を目指した「ゴーストライター」への賛否 - CNET Japan</title>
-            <link>https://newspicks.com/news/8976079?ref=picked-news_9980</link>
-            <description/>
-            <pubDate>Thu, 28 Sep 2023 23:02:40 +0000</pubDate>
-        </item>
-        <item>
-            <title>チャットＧＰＴにブラウジング機能、最新データが取得可能に - Reuters</title>
-            <link>https://newspicks.com/news/8970257?ref=picked-news_9980</link>
-            <description/>
-            <pubDate>Thu, 28 Sep 2023 09:05:03 +0000</pubDate>
         </item>
     </channel>
 </rss>
