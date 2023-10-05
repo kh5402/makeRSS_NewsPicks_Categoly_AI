@@ -4,12 +4,24 @@
         <title>NewsPicks Categoly：AI</title>
         <link>https://newspicks.com/theme-news/9980/</link>
         <description>最新のAI関連のニュースをお届けします</description>
-        <lastBuildDate>Wed, 04 Oct 2023 07:53:23 +0000</lastBuildDate>
+        <lastBuildDate>Wed, 04 Oct 2023 10:03:37 +0000</lastBuildDate>
+        <item>
+            <title>AWSの生成AIサービス「Amazon Bedrock」　東京リージョンで利用可能に - ITmedia NEWS</title>
+            <link>https://newspicks.com/news/9001467?ref=picked-news_9980</link>
+            <description/>
+            <pubDate>Wed, 04 Oct 2023 10:03:37 +0000</pubDate>
+        </item>
         <item>
             <title>サイバーエージェント、ゲームとアニメのAI研究機関を新設　各制作フローで生成AIの活用法探求 - ITmedia NEWS</title>
             <link>https://newspicks.com/news/8999775?ref=picked-news_9980</link>
             <description/>
-            <pubDate>Wed, 04 Oct 2023 07:53:23 +0000</pubDate>
+            <pubDate>Wed, 04 Oct 2023 10:03:34 +0000</pubDate>
+        </item>
+        <item>
+            <title>ＡＩ技術、政府の検閲強化や偽情報拡散を助長する恐れ＝報告書 - Reuters</title>
+            <link>https://newspicks.com/news/9000956?ref=picked-news_9980</link>
+            <description/>
+            <pubDate>Wed, 04 Oct 2023 10:03:31 +0000</pubDate>
         </item>
         <item>
             <title>BingチャットとBing Creatorに無料の「DALL・E 3」降臨 - ITmedia NEWS</title>
@@ -172,18 +184,6 @@
             <link>https://newspicks.com/news/8978550?ref=picked-news_9980</link>
             <description/>
             <pubDate>Fri, 29 Sep 2023 23:06:05 +0000</pubDate>
-        </item>
-        <item>
-            <title>米Microsoft、“ChatGPTの目と耳実装”の影で画像対応の生成AI「DeepSpeed-VisualChat」開発 - ITmedia NEWS</title>
-            <link>https://newspicks.com/news/8976415?ref=picked-news_9980</link>
-            <description/>
-            <pubDate>Fri, 29 Sep 2023 23:06:02 +0000</pubDate>
-        </item>
-        <item>
-            <title>【便利すぎ】エクセル業務を「GPTで自動化」する秘技 - NewsPicks編集部</title>
-            <link>https://newspicks.com/news/8977401?ref=picked-news_9980</link>
-            <description/>
-            <pubDate>Fri, 29 Sep 2023 23:05:59 +0000</pubDate>
         </item>
     </channel>
 </rss>
