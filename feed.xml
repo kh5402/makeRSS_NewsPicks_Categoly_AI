@@ -4,12 +4,24 @@
         <title>NewsPicks Categoly：AI</title>
         <link>https://newspicks.com/theme-news/9980/</link>
         <description>最新のAI関連のニュースをお届けします</description>
-        <lastBuildDate>Tue, 10 Oct 2023 23:06:43 +0000</lastBuildDate>
+        <lastBuildDate>Wed, 11 Oct 2023 01:06:22 +0000</lastBuildDate>
         <item>
             <title>アドビの生成AI「Firefly」の次の狙いは「イラレ」だった。文字からベクター画像が作れる新機能が登場 - Business Insider Japan</title>
             <link>https://newspicks.com/news/9027549?ref=picked-news_9980</link>
             <description/>
-            <pubDate>Tue, 10 Oct 2023 23:06:43 +0000</pubDate>
+            <pubDate>Wed, 11 Oct 2023 01:06:22 +0000</pubDate>
+        </item>
+        <item>
+            <title>AIチャットへの質問、1割近くが「性的な内容」--安全なAIを目指す研究者らの取り組み - ZDNET Japan</title>
+            <link>https://newspicks.com/news/9027970?ref=picked-news_9980</link>
+            <description/>
+            <pubDate>Wed, 11 Oct 2023 01:06:19 +0000</pubDate>
+        </item>
+        <item>
+            <title>ChatGPTのほうが「医師より説明上手」、医療での生成AI活用の可能性と課題 - ビジネス＋IT</title>
+            <link>https://newspicks.com/news/9027849?ref=picked-news_9980</link>
+            <description/>
+            <pubDate>Wed, 11 Oct 2023 01:06:01 +0000</pubDate>
         </item>
         <item>
             <title>グーグル、日本側に「安全性を確保しながらAI開発進める」と表明　アメリカに次いで2か国目 - TBS NEWS DIG</title>
@@ -172,18 +184,6 @@
             <link>https://newspicks.com/news/9002738?ref=picked-news_9980</link>
             <description/>
             <pubDate>Thu, 05 Oct 2023 01:30:51 +0000</pubDate>
-        </item>
-        <item>
-            <title>AWSの生成AIサービス「Amazon Bedrock」　東京リージョンで利用可能に - ITmedia NEWS</title>
-            <link>https://newspicks.com/news/9001467?ref=picked-news_9980</link>
-            <description/>
-            <pubDate>Wed, 04 Oct 2023 10:03:37 +0000</pubDate>
-        </item>
-        <item>
-            <title>サイバーエージェント、ゲームとアニメのAI研究機関を新設　各制作フローで生成AIの活用法探求 - ITmedia NEWS</title>
-            <link>https://newspicks.com/news/8999775?ref=picked-news_9980</link>
-            <description/>
-            <pubDate>Wed, 04 Oct 2023 10:03:34 +0000</pubDate>
         </item>
     </channel>
 </rss>
