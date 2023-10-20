@@ -4,7 +4,13 @@
         <title>NewsPicks Categoly：AI</title>
         <link>https://newspicks.com/theme-news/9980/</link>
         <description>最新のAI関連のニュースをお届けします</description>
-        <lastBuildDate>Fri, 20 Oct 2023 02:17:24 +0000</lastBuildDate>
+        <lastBuildDate>Fri, 20 Oct 2023 06:32:24 +0000</lastBuildDate>
+        <item>
+            <title>Meta、脳スキャンで心の中のイメージを描画する「Image Decoder」を発表 - BRIDGE（ブリッジ）テクノロジー＆スタートアップ情報</title>
+            <link>https://newspicks.com/news/9072505?ref=picked-news_9980</link>
+            <description/>
+            <pubDate>Fri, 20 Oct 2023 06:32:24 +0000</pubDate>
+        </item>
         <item>
             <title>「GPT-4」は論文の査読ができるか？　米スタンフォード大らが検証　参加者の80％以上「AI査読は有益」 - ITmedia NEWS</title>
             <link>https://newspicks.com/news/9071998?ref=picked-news_9980</link>
@@ -178,12 +184,6 @@
             <link>https://newspicks.com/news/9049724?ref=picked-news_9980</link>
             <description/>
             <pubDate>Sun, 15 Oct 2023 23:43:43 +0000</pubDate>
-        </item>
-        <item>
-            <title>AIが名古屋市内のオススメ観光地を提案する「名古屋観光デジタルマップ」運用開始 - ascii.jp</title>
-            <link>https://newspicks.com/news/9050105?ref=picked-news_9980</link>
-            <description/>
-            <pubDate>Sun, 15 Oct 2023 23:43:40 +0000</pubDate>
         </item>
     </channel>
 </rss>
