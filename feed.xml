@@ -4,18 +4,30 @@
         <title>NewsPicks Categoly：AI</title>
         <link>https://newspicks.com/theme-news/9980/</link>
         <description>最新のAI関連のニュースをお届けします</description>
-        <lastBuildDate>Tue, 31 Oct 2023 01:09:37 +0000</lastBuildDate>
+        <lastBuildDate>Tue, 31 Oct 2023 07:23:24 +0000</lastBuildDate>
         <item>
-            <title>従来の小さなニューラルネットワークでも「メタ学習」でChatGPTを凌駕するほど高度な生成AIができるとの報告、Nature誌 - アイブン</title>
-            <link>https://newspicks.com/news/9120235?ref=picked-news_9980</link>
+            <title>ソフトバンク、3500億パラメーターの国産LLM構築へ　「国内最大級」生成AI計算基盤、稼働スタート - ITmedia NEWS</title>
+            <link>https://newspicks.com/news/9122948?ref=picked-news_9980</link>
             <description/>
-            <pubDate>Tue, 31 Oct 2023 01:09:37 +0000</pubDate>
+            <pubDate>Tue, 31 Oct 2023 07:23:24 +0000</pubDate>
+        </item>
+        <item>
+            <title>中国アリババ、ＡＩモデル「通義千問」最新版提供　業界別8種類 - Reuters</title>
+            <link>https://newspicks.com/news/9122524?ref=picked-news_9980</link>
+            <description/>
+            <pubDate>Tue, 31 Oct 2023 06:25:47 +0000</pubDate>
         </item>
         <item>
             <title>群知能で生成AIの次　「トランスフォーマー」生みの親 - 日本経済新聞</title>
             <link>https://newspicks.com/news/9120188?ref=picked-news_9980</link>
             <description/>
-            <pubDate>Tue, 31 Oct 2023 01:08:38 +0000</pubDate>
+            <pubDate>Tue, 31 Oct 2023 06:25:40 +0000</pubDate>
+        </item>
+        <item>
+            <title>従来の小さなニューラルネットワークでも「メタ学習」でChatGPTを凌駕するほど高度な生成AIができるとの報告、Nature誌 - アイブン</title>
+            <link>https://newspicks.com/news/9120235?ref=picked-news_9980</link>
+            <description/>
+            <pubDate>Tue, 31 Oct 2023 06:25:37 +0000</pubDate>
         </item>
         <item>
             <title>米バイデン政権 AIの安全性に関する新基準などの大統領令公表 - NHKニュース</title>
@@ -172,18 +184,6 @@
             <link>https://newspicks.com/news/9099169?ref=picked-news_9980</link>
             <description/>
             <pubDate>Thu, 26 Oct 2023 06:11:05 +0000</pubDate>
-        </item>
-        <item>
-            <title>グーグル、不適切なAIコンテンツの通報機能をAndoridアプリに義務づけ - Forbes JAPAN</title>
-            <link>https://newspicks.com/news/9099667?ref=picked-news_9980</link>
-            <description/>
-            <pubDate>Thu, 26 Oct 2023 06:10:55 +0000</pubDate>
-        </item>
-        <item>
-            <title>ＡＩ競争、マイクロソフトに軍配　アルファベット引き離す - Reuters</title>
-            <link>https://newspicks.com/news/9097287?ref=picked-news_9980</link>
-            <description/>
-            <pubDate>Thu, 26 Oct 2023 03:08:23 +0000</pubDate>
         </item>
     </channel>
 </rss>
